@@ -1,5 +1,5 @@
 package com.servlet;
-
+// Take the whole and extract the part
 public class TxtAuthor {
 	private final String s;
 	
